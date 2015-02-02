@@ -1,0 +1,19 @@
+
+
+#leftSide, #floatingMenu, #rightMenu, #showButton{
+	display: none !important;
+}
+
+#rightSide{
+	width: 100% !important;
+}
+
+.rightSidePush{
+	margin: 0!important;
+}
+
+#contactPhoto{
+	width: 60%;
+	margin-right: 20%;
+	margin-left: 20%;
+}
